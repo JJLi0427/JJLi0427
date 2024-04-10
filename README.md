@@ -54,14 +54,14 @@
       </a>
     </p>
     <p>
+      <br>
       <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="180px">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="175px">
       </a>
     </p>
   </span>
 </div>
 
-<br>
 <h3> ✨ &nbsp;Github active </h3>
 
 <p align="center">
