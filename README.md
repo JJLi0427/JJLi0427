@@ -35,29 +35,28 @@
   <img align="right" width="380" src="./album.gif">
   <span align="left">
     <p>
-      <br>
       <a href="https://github.com/JJLi0427" target="_blank">
         <img src="https://img.shields.io/badge/Email-white?style=social&logo=mail&label=2366876022@qq.com">
       </a>
     </p>
     <p>
-      <br>
       <a href="https://github.com/JJLi0427" target="_blank">
         <img src="https://img.shields.io/badge/Github-white?style=social&logo=github&label=JJLi0427">
       </a>
     </p>
     <p>
-      <br>
       <a href="https://blog.csdn.net/lijj0304" target="_blank">
         <img src="https://img.shields.io/badge/Wechat-blue?style=social&logo=wechat&label=13538082049">
       </a>
     </p>
     <p>
-      <br>
       <a href="https://blog.csdn.net/lijj0304" target="_blank">
         <img src="https://img.shields.io/badge/CSDN-blue?style=social&label=Lijj0304">
       </a>
     </p>
+    <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="200px">
+    </a>
   </span>
   
 </div>
