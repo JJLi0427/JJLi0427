@@ -78,13 +78,6 @@
   <img width="822" height="137" style="margin: auto 8px" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=1&column=6">
 </p>
 
-<p> &nbsp;</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
-  </a>
-</p>
-
 
 <!--
 **JJLi0427/JJLi0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
