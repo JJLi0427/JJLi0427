@@ -10,7 +10,7 @@
 </h1>
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <ul>
   <img align="right" width="260" src="./photo_1.jpeg">
   <li>🌏 &nbsp; 21 years old. Come from China.</li>
@@ -28,7 +28,7 @@
 </ul>
 
 
-<h2> 📫 &nbsp;Connect with Me</h2>
+<h3> 📫 &nbsp;Connect with Me</h3>
 
 <div> 
   <img align="left" width="250" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67">
@@ -62,7 +62,7 @@
   
 </div>
 
-<h2> ✨ &nbsp;Github active </h2>
+<h3> ✨ &nbsp;Github active </h3>
 
 <p align="center">
       <img height="165" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api?username=JJLi0427&show_icons=true&theme=radical">
