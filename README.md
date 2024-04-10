@@ -31,9 +31,10 @@
 <h3> 📫 &nbsp;Connect with Me</h3>
 <div> 
   <img align="left" width="250" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67">
-  <img align="right" width="380" src="./album.gif">
+  <img align="right" width="350" src="./album.gif">
   <span align="left">
     <p>
+      <br>
       <a href="https://github.com/JJLi0427" target="_blank">
         <img src="https://img.shields.io/badge/Email-white?style=social&logo=mail&label=2366876022@qq.com">
       </a>
@@ -54,7 +55,6 @@
       </a>
     </p>
     <p>
-      <br>
       <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="175px">
       </a>
