@@ -54,11 +54,12 @@
         <img src="https://img.shields.io/badge/CSDN-blue?style=social&label=Lijj0304">
       </a>
     </p>
-    <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="200px">
-    </a>
+    <p>
+      <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="180px">
+      </a>
+    </p>
   </span>
-  
 </div>
 
 <h3> ✨ &nbsp;Github active </h3>
