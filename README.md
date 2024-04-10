@@ -62,19 +62,18 @@
   
 </div>
 
-<p> &nbsp;</p>
+<h3> ✨ &nbsp;Github active </h3>
+
 <p align="center">
       <img height="165" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api?username=JJLi0427&show_icons=true&theme=radical">
       <img height="165"style="margin: auto 8px" src="https://streak-stats.demolab.com/?user=JJLi0427&theme=dark">
 </p>
   
-<p> &nbsp;</p>
 <p align="center">
   <img height="185" src="https://github-readme-activity-graph.vercel.app/graph?username=JJLi0427&theme=vue&custom_title=Activity&radius=30">
   <img height="185"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=8&bg_color=7d4d83&text_color=ffffff">
 </p>
 
-<p> &nbsp;</p>
 <p align="center">
   <img width="822" height="137" style="margin: auto 8px" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=1&column=6">
 </p>
