@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jiajun Li
+<h1 align="center">Welcome 👋, Jiajun Li's World
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=black" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-Pytorch-ff4821?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=white" style="display: inline-block;" />
+    <br>
+    <img src="https://img.shields.io/badge/-Html-ff0000?style=flat-square&logo=html5&logoColor=white" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-CSS-131393?style=flat-square&logo=css3&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
+    <br>
     <img src="https://komarev.com/ghpvc/?username=JJLi0427" alt="1879" style="display: inline-block;">
   </div>
 </h1>
@@ -69,7 +74,7 @@
   
 <p align="center">
   <img height="185" src="https://github-readme-activity-graph.vercel.app/graph?username=JJLi0427&theme=vue&custom_title=Activity&radius=30">
-  <img height="185"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=8&bg_color=7d4d83&text_color=ffffff">
+  <img height="185"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=10&bg_color=7d4d83&text_color=ffffff">
 </p>
 
 <p align="center">
