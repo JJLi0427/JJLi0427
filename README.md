@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JJ Li
+<h1 align="center">Hi 👋, I'm Jiajun Li
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=black" style="display: inline-block;" /> 
