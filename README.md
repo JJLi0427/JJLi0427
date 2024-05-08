@@ -74,7 +74,7 @@
   
 <p align="center">
   <img height="192" src="https://github-readme-activity-graph.vercel.app/graph?username=JJLi0427&theme=vue&custom_title=Activity&radius=30">
-  <img height="192"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=12&bg_color=7d4d83&text_color=ffffff">
+  <img height="192"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=14&bg_color=7d4d83&text_color=ffffff">
 </p>
 
 <p align="center">
