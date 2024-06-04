@@ -77,10 +77,11 @@
   <img height="192"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=14&bg_color=7d4d83&text_color=ffffff">
 </p>
 
+<!---
 <p align="center">
   <img width="822" height="137" style="margin: auto 8px" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=1&column=6">
 </p>
-
+-->
 
 <!--
 **JJLi0427/JJLi0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
