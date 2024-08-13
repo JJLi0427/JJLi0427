@@ -65,8 +65,14 @@
   </span>
 </div>
 
-<h3> ✨ &nbsp;Github active </h3>
+<h3> ✨ &nbsp;Github activity </h3>
+<p align="center">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=JJLi0427&show_icons=true&theme=radical">
+      <img width="200" height="200" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=2&column=2">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=14&bg_color=7d4d83&text_color=ffffff">
+</p>
 
+<!---
 <p align="center">
       <img height="165" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api?username=JJLi0427&show_icons=true&theme=radical">
       <img height="165"style="margin: auto 8px" src="https://streak-stats.demolab.com/?user=JJLi0427&theme=dark">
@@ -77,7 +83,6 @@
   <img height="192"style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=14&bg_color=7d4d83&text_color=ffffff">
 </p>
 
-<!---
 <p align="center">
   <img width="822" height="137" style="margin: auto 8px" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=1&column=6">
 </p>
