@@ -16,7 +16,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <ul>
-  <img align="right" width="260" src="./photo_1.jpeg">
+  
   <li>🌏 &nbsp; 21 years old. Come from China.</li>
   <li>
     🎓 &nbsp; Currently learning Computer Science at <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
@@ -33,7 +33,8 @@
 
 <h3> 📫 &nbsp;Connect with Me</h3>
 <div> 
-  <img align="left" width="250" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67">
+<!--   <img align="left" width="250" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67"> -->
+  <img align="left" width="250" src="./photo_1.jpeg">
   <img align="right" width="380" src="./album_compressed.gif">
   <span align="left">
     <p>
