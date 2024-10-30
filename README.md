@@ -27,8 +27,9 @@
   <li>🔭 &nbsp; My research interests are deeplearning, autonomous driving, AI painting, language model etc.</li>
   <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li>
   <li>⚡ &nbsp; Also love tossing around hardware, have experience in embedded device development.</li>
-<!--   <li>🎮 &nbsp; I enjoy playing strategy and construction games in my spare time.</li>
-  <li>🎼 &nbsp; Offen listening music to transform my mind and improve my work efficiency.</li> -->
+  <li>
+      🏠 &nbsp; Visit my <a href="https://jiajunli.notion.site/Hello-I-m-Jiajun-Li-12decbc41d1d80498685fe4506c3656d">HomePage</a> know more about me.
+  </li>
 </ul>
 
 <h3> 📫 &nbsp;Connect with Me</h3>
