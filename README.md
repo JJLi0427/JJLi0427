@@ -22,13 +22,13 @@
     🎓 &nbsp; Currently learning Computer Science at <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
   </li>
   <li>
-    👨‍💻 &nbsp; Working as an algorithm engineer intern in <a href="https://www.deeproute.ai/">Deeproute.AI</a>.
+    👨‍💻 &nbsp; Working as an autodriving algorithm engineer intern in <a href="https://www.deeproute.ai/">Deeproute.AI</a>.
   </li>
   <li>🔭 &nbsp; My research interests are deeplearning, autonomous driving, AI painting, language model etc.</li>
   <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li>
   <li>⚡ &nbsp; Also love tossing around hardware, have experience in embedded device development.</li>
-  <li>🎮 &nbsp; I enjoy playing strategy and construction games in my spare time.</li>
-  <li>🎼 &nbsp; Offen listening music to transform my mind and improve my work efficiency.</li>
+<!--   <li>🎮 &nbsp; I enjoy playing strategy and construction games in my spare time.</li>
+  <li>🎼 &nbsp; Offen listening music to transform my mind and improve my work efficiency.</li> -->
 </ul>
 
 <h3> 📫 &nbsp;Connect with Me</h3>
