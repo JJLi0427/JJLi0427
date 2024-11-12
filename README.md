@@ -28,7 +28,7 @@
   <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li>
   <li>⚡ &nbsp; Also love tossing around hardware, have experience in embedded device development.</li>
   <li>
-      🏠 &nbsp; Visit my <a href="https://jiajunli.notion.site/Hello-I-m-Jiajun-Li-12decbc41d1d80498685fe4506c3656d">HomePage</a> know more about me.
+      🏠 &nbsp; Visit my <b><a href="https://jiajunli.notion.site">👀 HomePage 👀</a></b> know more about me.
   </li>
 </ul>
 
