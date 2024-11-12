@@ -60,7 +60,7 @@
       </a>
     </p>
     <p>
-      <a href="https://www.buymeacoffee.com/jjli0427" target="_blank">
+      <a href="https://www.buymeacoffee.com/jjl0427" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="175px">
       </a>
     </p>
@@ -88,19 +88,4 @@
 <p align="center">
   <img width="822" height="137" style="margin: auto 8px" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=1&column=6">
 </p>
--->
-
-<!--
-**JJLi0427/JJLi0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
