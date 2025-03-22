@@ -22,11 +22,11 @@
     🎓 &nbsp; Currently learning Computer Science at <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
   </li>
   <li>
-    👨‍💻 &nbsp; Working as an autodriving algorithm engineer intern in <a href="https://www.deeproute.ai/">Deeproute.AI</a>.
+    👨‍💻 &nbsp; Working as an autodriving data&algorithm engineer intern in <a href="https://www.deeproute.ai/">Deeproute.AI</a>.
   </li>
-  <li>🔭 &nbsp; My research interests are deeplearning, autonomous driving, AI painting, language model etc.</li>
-  <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li>
-  <li>⚡ &nbsp; Also love tossing around hardware, have experience in embedded device development.</li>
+  <li>🔭 &nbsp; Interest in machine learning, AI technology, cutting-edge hardware.</li>
+<!--   <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li> -->
+<!--   <li>⚡ &nbsp; Also love tossing around hardware, have experience in embedded device development.</li> -->
   <li>
       🏠 &nbsp; Visit my <b><a href="https://jiajunli.notion.site">👀 HomePage 👀</a></b> know more about me.
   </li>
