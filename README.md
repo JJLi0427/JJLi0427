@@ -69,9 +69,9 @@
 
 <h3> ✨ &nbsp;Github activity </h3>
 <p align="center">
-      <img height="182" src="https://github-readme-stats.vercel.app/api?username=JJLi0427&show_icons=true&theme=radical">
-      <img width="182" height="182" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=2&column=2">
-      <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=12&bg_color=7d4d83&text_color=ffffff">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=JJLi0427&show_icons=true&theme=radical">
+      <img width="180" height="180" src="https://github-profile-trophy.vercel.app/?username=JJLi0427&theme=onedark&title=Star,Commits,Repo,Follower,Experience,PullRequest&row=2&column=2">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLi0427&layout=compact&langs_count=12&bg_color=7d4d83&text_color=ffffff">
 </p>
 
 <!---
