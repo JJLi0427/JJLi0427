@@ -17,7 +17,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <ul>
   
-  <li>🌏 &nbsp; 21 years old. Come from China.</li>
+  <li>🌏 &nbsp; 22 years old. Come from China.</li>
   <li>
     🎓 &nbsp; Currently learning Computer Science at <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
   </li>
