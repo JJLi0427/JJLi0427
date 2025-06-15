@@ -19,10 +19,10 @@
   
   <li>🌏 &nbsp; 22 years old. Come from China.</li>
   <li>
-    🎓 &nbsp; Currently learning Computer Science at <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
+    🎓 &nbsp; Graduated from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a> major is Computer Science.
   </li>
   <li>
-    👨‍💻 &nbsp; Working as an autodriving data&algorithm engineer intern in <a href="https://www.deeproute.ai/">Deeproute.AI</a>.
+    👨‍💻 &nbsp; Have been worked in <a href="https://www.deeproute.ai/">Deeproute.AI</a> as AutoDriving algorithm intern. Working as AD engineer in <a href="https://www.gwm.com.cn/">GWM Technical Center</a> now.
   </li>
   <li>🔭 &nbsp; Interest in machine learning, AI technology, cutting-edge hardware.</li>
 <!--   <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li> -->
