@@ -17,7 +17,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <ul>
   
-  <li>🌏 &nbsp; 22 years old. Come from China Guangdong</li>
+  <li>🌏 &nbsp; Come from China Guangdong</li>
   <li>
     🎓 &nbsp; Graduated from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a> major is Computer Science.
   </li>
