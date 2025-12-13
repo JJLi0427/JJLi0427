@@ -25,7 +25,7 @@
     👨‍💻 &nbsp; Have been worked in <a href="https://www.deeproute.ai/">Deeproute.AI</a> as AutoDriving algorithm intern. 
     <br> &nbsp; &nbsp; &nbsp; &nbsp; Working as AD engineer in <a href="https://www.gwm.com.cn/">GWM Technical Center</a> now.
   </li>
-  <li>🔭 &nbsp; Interest in machine learning, AI technology, cutting-edge hardware.</li>
+  <li>🔭 &nbsp; Interest in traveling, photography, AI technology, cutting-edge hardware.</li>
 <!--   <li>🌱 &nbsp; I take the initiative to learn about cutting-edge technologies and love to try them at first time.</li> -->
 <!--   <li>⚡ &nbsp; Also love tossing around hardware, have experience in embedded device development.</li> -->
   <li>
